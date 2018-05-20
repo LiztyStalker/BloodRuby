@@ -1,0 +1,76 @@
+
+Heavy.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bag
+  rotate: false
+  xy: 350, 33
+  size: 129, 88
+  orig: 129, 88
+  offset: 0, 0
+  index: -1
+BagBand
+  rotate: false
+  xy: 481, 33
+  size: 129, 88
+  orig: 129, 88
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 710, 93
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 874, 101
+  size: 129, 113
+  orig: 129, 113
+  offset: 0, 0
+  index: -1
+Mount
+  rotate: false
+  xy: 2, 16
+  size: 138, 31
+  orig: 138, 31
+  offset: 0, 0
+  index: -1
+Telescope
+  rotate: true
+  xy: 612, 2
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+UpperArmL
+  rotate: true
+  xy: 357, 123
+  size: 91, 175
+  orig: 91, 175
+  offset: 0, 0
+  index: -1
+UpperArmR
+  rotate: true
+  xy: 534, 123
+  size: 91, 174
+  orig: 91, 174
+  offset: 0, 0
+  index: -1
+Weapon0
+  rotate: false
+  xy: 2, 49
+  size: 346, 83
+  orig: 346, 83
+  offset: 0, 0
+  index: -1
+Weapon1
+  rotate: false
+  xy: 2, 134
+  size: 353, 80
+  orig: 353, 80
+  offset: 0, 0
+  index: -1

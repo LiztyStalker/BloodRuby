@@ -1,0 +1,90 @@
+
+Guardian.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 735, 408
+  size: 154, 98
+  orig: 154, 98
+  offset: 0, 0
+  index: -1
+Cape
+  rotate: false
+  xy: 2, 95
+  size: 172, 127
+  orig: 172, 127
+  offset: 0, 0
+  index: -1
+Hammer
+  rotate: false
+  xy: 2, 224
+  size: 378, 141
+  orig: 378, 141
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 176, 96
+  size: 96, 126
+  orig: 96, 126
+  offset: 0, 0
+  index: -1
+LowerArmL
+  rotate: false
+  xy: 274, 129
+  size: 86, 93
+  orig: 86, 93
+  offset: 0, 0
+  index: -1
+LowerArmR1
+  rotate: false
+  xy: 382, 272
+  size: 85, 93
+  orig: 85, 93
+  offset: 0, 0
+  index: -1
+LowerArmR2
+  rotate: false
+  xy: 891, 409
+  size: 91, 97
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: false
+  xy: 450, 385
+  size: 283, 121
+  orig: 283, 121
+  offset: 0, 0
+  index: -1
+Telescope
+  rotate: false
+  xy: 2, 2
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+TwoHandSword
+  rotate: false
+  xy: 2, 367
+  size: 446, 139
+  orig: 446, 139
+  offset: 0, 0
+  index: -1
+UpperArmL
+  rotate: false
+  xy: 469, 302
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+UpperArmR
+  rotate: false
+  xy: 548, 302
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1

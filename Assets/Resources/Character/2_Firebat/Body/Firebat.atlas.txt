@@ -1,0 +1,76 @@
+
+Firebat.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bag
+  rotate: false
+  xy: 447, 105
+  size: 149, 84
+  orig: 149, 84
+  offset: 0, 0
+  index: -1
+BagMark
+  rotate: false
+  xy: 447, 19
+  size: 149, 84
+  orig: 149, 84
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 2
+  size: 157, 120
+  orig: 157, 120
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 161, 14
+  size: 108, 141
+  orig: 108, 141
+  offset: 0, 0
+  index: -1
+HeadBand
+  rotate: true
+  xy: 304, 14
+  size: 108, 141
+  orig: 108, 141
+  offset: 0, 0
+  index: -1
+Hose
+  rotate: true
+  xy: 897, 116
+  size: 73, 125
+  orig: 73, 125
+  offset: 0, 0
+  index: -1
+Telescope
+  rotate: false
+  xy: 776, 98
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+UpperArmL
+  rotate: false
+  xy: 598, 44
+  size: 87, 145
+  orig: 87, 145
+  offset: 0, 0
+  index: -1
+UpperArmR
+  rotate: false
+  xy: 687, 44
+  size: 87, 145
+  orig: 87, 145
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 124
+  size: 412, 65
+  orig: 412, 65
+  offset: 0, 0
+  index: -1

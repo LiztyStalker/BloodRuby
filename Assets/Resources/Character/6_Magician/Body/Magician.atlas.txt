@@ -1,0 +1,90 @@
+
+Magician.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmBandL
+  rotate: false
+  xy: 248, 52
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+ArmBandR
+  rotate: false
+  xy: 309, 52
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 48
+  size: 170, 120
+  orig: 170, 120
+  offset: 0, 0
+  index: -1
+BodyEdge
+  rotate: false
+  xy: 264, 122
+  size: 170, 120
+  orig: 170, 120
+  offset: 0, 0
+  index: -1
+Cape
+  rotate: false
+  xy: 174, 40
+  size: 72, 128
+  orig: 72, 128
+  offset: 0, 0
+  index: -1
+CapePoint
+  rotate: false
+  xy: 2, 2
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 436, 134
+  size: 105, 108
+  orig: 105, 108
+  offset: 0, 0
+  index: -1
+Telescope
+  rotate: false
+  xy: 543, 151
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+UpperArmL
+  rotate: true
+  xy: 664, 167
+  size: 75, 129
+  orig: 75, 129
+  offset: 0, 0
+  index: -1
+UpperArmR
+  rotate: true
+  xy: 795, 167
+  size: 75, 129
+  orig: 75, 129
+  offset: 0, 0
+  index: -1
+Weapon0
+  rotate: false
+  xy: 2, 170
+  size: 260, 72
+  orig: 260, 72
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 926, 171
+  size: 73, 71
+  orig: 73, 71
+  offset: 0, 0
+  index: -1

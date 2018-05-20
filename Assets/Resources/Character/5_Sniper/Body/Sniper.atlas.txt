@@ -1,0 +1,76 @@
+
+Sniper.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bag
+  rotate: false
+  xy: 597, 163
+  size: 129, 88
+  orig: 129, 88
+  offset: 0, 0
+  index: -1
+BagBand
+  rotate: false
+  xy: 728, 163
+  size: 129, 88
+  orig: 129, 88
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 37
+  size: 172, 116
+  orig: 172, 116
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 322, 42
+  size: 108, 111
+  orig: 108, 111
+  offset: 0, 0
+  index: -1
+SubWeapon
+  rotate: false
+  xy: 2, 2
+  size: 121, 33
+  orig: 121, 33
+  offset: 0, 0
+  index: -1
+Telescope
+  rotate: false
+  xy: 859, 160
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+UpperArmL
+  rotate: true
+  xy: 176, 70
+  size: 83, 144
+  orig: 83, 144
+  offset: 0, 0
+  index: -1
+UpperArmR
+  rotate: true
+  xy: 452, 169
+  size: 82, 143
+  orig: 82, 143
+  offset: 0, 0
+  index: -1
+Weapon0
+  rotate: false
+  xy: 2, 211
+  size: 448, 40
+  orig: 448, 40
+  offset: 0, 0
+  index: -1
+Weapon1
+  rotate: false
+  xy: 2, 155
+  size: 391, 54
+  orig: 391, 54
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+Builder.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bag
+  rotate: false
+  xy: 674, 166
+  size: 129, 88
+  orig: 129, 88
+  offset: 0, 0
+  index: -1
+BagBand
+  rotate: false
+  xy: 805, 166
+  size: 129, 88
+  orig: 129, 88
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 413, 130
+  size: 132, 124
+  orig: 132, 124
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 547, 147
+  size: 107, 125
+  orig: 107, 125
+  offset: 0, 0
+  index: -1
+Lench0
+  rotate: false
+  xy: 2, 2
+  size: 147, 56
+  orig: 147, 56
+  offset: 0, 0
+  index: -1
+Telescope
+  rotate: false
+  xy: 674, 73
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+Trigger
+  rotate: false
+  xy: 151, 16
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
+UpperArmL
+  rotate: true
+  xy: 2, 60
+  size: 98, 167
+  orig: 98, 167
+  offset: 0, 0
+  index: -1
+UpperArmR
+  rotate: true
+  xy: 171, 60
+  size: 98, 167
+  orig: 98, 167
+  offset: 0, 0
+  index: -1
+Weapon0
+  rotate: false
+  xy: 2, 212
+  size: 409, 42
+  orig: 409, 42
+  offset: 0, 0
+  index: -1
+Weapon1
+  rotate: false
+  xy: 2, 160
+  size: 363, 50
+  orig: 363, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+Cleric.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmMarkL
+  rotate: false
+  xy: 100, 7
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+ArmMarkR
+  rotate: false
+  xy: 378, 84
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 136
+  size: 174, 116
+  orig: 174, 116
+  offset: 0, 0
+  index: -1
+BodyMark
+  rotate: false
+  xy: 2, 46
+  size: 174, 88
+  orig: 174, 88
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 178, 8
+  size: 95, 114
+  orig: 95, 114
+  offset: 0, 0
+  index: -1
+HeadMark
+  rotate: false
+  xy: 364, 42
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
+Telescope
+  rotate: false
+  xy: 378, 161
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+UpperArmL
+  rotate: false
+  xy: 178, 105
+  size: 98, 147
+  orig: 98, 147
+  offset: 0, 0
+  index: -1
+UpperArmR
+  rotate: false
+  xy: 278, 105
+  size: 98, 147
+  orig: 98, 147
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: true
+  xy: 378, 123
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: -1
+bible
+  rotate: false
+  xy: 294, 2
+  size: 68, 101
+  orig: 68, 101
+  offset: 0, 0
+  index: -1
+gun_2
+  rotate: true
+  xy: 2, 20
+  size: 24, 96
+  orig: 24, 96
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+Assault.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bag
+  rotate: false
+  xy: 421, 108
+  size: 129, 88
+  orig: 129, 88
+  offset: 0, 0
+  index: -1
+BagBand
+  rotate: false
+  xy: 552, 108
+  size: 129, 88
+  orig: 129, 88
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 701, 124
+  size: 171, 108
+  orig: 171, 108
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 874, 127
+  size: 105, 120
+  orig: 105, 120
+  offset: 0, 0
+  index: -1
+Telescope
+  rotate: false
+  xy: 300, 89
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+Trigger
+  rotate: false
+  xy: 302, 51
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+UpperArmL
+  rotate: true
+  xy: 2, 2
+  size: 75, 149
+  orig: 75, 149
+  offset: 0, 0
+  index: -1
+UpperArmR
+  rotate: true
+  xy: 153, 2
+  size: 75, 147
+  orig: 75, 147
+  offset: 0, 0
+  index: -1
+Weapon0
+  rotate: false
+  xy: 2, 79
+  size: 296, 101
+  orig: 296, 101
+  offset: 0, 0
+  index: -1
+Weapon1
+  rotate: false
+  xy: 2, 182
+  size: 363, 50
+  orig: 363, 50
+  offset: 0, 0
+  index: -1
+Weapon2
+  rotate: false
+  xy: 367, 198
+  size: 332, 34
+  orig: 332, 34
+  offset: 0, 0
+  index: -1

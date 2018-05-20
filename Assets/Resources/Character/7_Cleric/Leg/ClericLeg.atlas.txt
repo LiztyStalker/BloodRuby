@@ -1,0 +1,20 @@
+
+ClericLeg.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leg_l
+  rotate: false
+  xy: 2, 76
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 2, 2
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1

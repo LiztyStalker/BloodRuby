@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7c7407e4941b15a4eb4c5cccaea8f17d
+timeCreated: 1454579796
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames:
+  - NanumBarunGothicBold
+  customCharacters: 
+  fontRenderingMode: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

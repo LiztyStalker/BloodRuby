@@ -1,0 +1,83 @@
+
+Dualist.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: true
+  xy: 2, 2
+  size: 62, 125
+  orig: 62, 125
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: true
+  xy: 685, 186
+  size: 62, 125
+  orig: 62, 125
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 301, 112
+  size: 146, 115
+  orig: 146, 115
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 265, 144
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 129, 40
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 449, 102
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+Telescope
+  rotate: false
+  xy: 564, 157
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+saber
+  rotate: false
+  xy: 2, 66
+  size: 198, 39
+  orig: 198, 39
+  offset: 0, 0
+  index: -1
+sabersheath
+  rotate: false
+  xy: 2, 107
+  size: 261, 61
+  orig: 261, 61
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 2, 170
+  size: 297, 78
+  orig: 297, 78
+  offset: 0, 0
+  index: -1
+sword_sheath
+  rotate: false
+  xy: 301, 229
+  size: 219, 19
+  orig: 219, 19
+  offset: 0, 0
+  index: -1

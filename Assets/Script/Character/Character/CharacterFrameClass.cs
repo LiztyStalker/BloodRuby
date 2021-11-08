@@ -17,8 +17,8 @@ public class CharacterFrameClass : MonoBehaviour
 	[SerializeField] SpriteRenderer m_character;
 	[SerializeField] SpriteRenderer m_weapon;
     [SerializeField] Transform m_hpBar;
-	[SerializeField] GUIText m_nameText;
-	[SerializeField] GUIText m_nameShadowText;
+	//[SerializeField] GUIText m_nameText;
+	//[SerializeField] GUIText m_nameShadowText;
 //	[SerializeField] string m_weaponName;
 
     Vector3 vecAngle = Vector3.zero;
@@ -27,7 +27,7 @@ public class CharacterFrameClass : MonoBehaviour
 	Coroutine coroutine_hpBar;
 	float m_time = 0f;
 
-	public string characterName {get{return m_nameText.text;}}
+	public string characterName => "";// {get{return m_nameText.text;}}
     public float angle { get { return m_character.transform.eulerAngles.z; } }
 	public Sprite mainSprite{get{return m_character.sprite;}}
 
@@ -52,21 +52,21 @@ public class CharacterFrameClass : MonoBehaviour
 				m_hpBar.parent.gameObject.SetActive (false);
 		}
 
-		if(m_nameText != null)
-			m_nameText.transform.SetParent (null);
+		//if(m_nameText != null)
+		//	m_nameText.transform.SetParent (null);
 		
-		if(m_nameShadowText != null)
-			m_nameShadowText.gameObject.SetActive (false);
+		//if(m_nameShadowText != null)
+		//	m_nameShadowText.gameObject.SetActive (false);
 
 		//Debug.Log ("barScale : " + barScale);
 	}
 
-	void Update(){
-		if (m_nameText != null) {
-			Vector2 pos = Camera.main.WorldToViewportPoint (transform.position);
-			m_nameText.transform.position = (Vector3)pos;
-		}
-	}
+	//void Update(){
+	//	if (m_nameText != null) {
+	//		Vector2 pos = Camera.main.WorldToViewportPoint (transform.position);
+	//		m_nameText.transform.position = (Vector3)pos;
+	//	}
+	//}
 
 	/// <summary>
 	/// 캐릭터 스프라이트 붙이기
@@ -89,16 +89,16 @@ public class CharacterFrameClass : MonoBehaviour
 		MOSSkeleton.transform.SetParent (m_character.transform);
 		setColor (team);
 
-		if (m_nameText != null) {
-			m_nameText.text = GetComponent<ICharacterInterface>().playerName;
-			m_nameShadowText.text = m_nameText.text;
+		//if (m_nameText != null) {
+		//	m_nameText.text = GetComponent<ICharacterInterface>().playerName;
+		//	m_nameShadowText.text = m_nameText.text;
 
-			if (GetComponent<ICharacterInterface> ().team == TYPE_TEAM.TEAM_0)
-				m_nameText.color = Color.cyan;
-			else
-				m_nameText.color = PrepClass.getFlagColor (GetComponent<ICharacterInterface>().team);
-		} else
-			m_nameText.gameObject.SetActive (false);
+		//	if (GetComponent<ICharacterInterface> ().team == TYPE_TEAM.TEAM_0)
+		//		m_nameText.color = Color.cyan;
+		//	else
+		//		m_nameText.color = PrepClass.getFlagColor (GetComponent<ICharacterInterface>().team);
+		//} else
+		//	m_nameText.gameObject.SetActive (false);
 	}
 
 
@@ -154,7 +154,7 @@ public class CharacterFrameClass : MonoBehaviour
 //		Debug.Log ("teamMaker : " + isView + " " + m_character);
 		m_teamMarker.gameObject.SetActive (isView);
 		m_hpBar.parent.gameObject.SetActive (isView);
-		m_nameText.gameObject.SetActive (isView);
+		//m_nameText.gameObject.SetActive (isView);
 //		m_nameShadowText.gameObject.SetActive (isView);
 	}
 
@@ -176,8 +176,8 @@ public class CharacterFrameClass : MonoBehaviour
 			StopCoroutine (coroutine_hpBar);
 		coroutine_hpBar = null;
 
-		if(m_nameText != null)
-			Destroy (m_nameText.gameObject);
+		//if(m_nameText != null)
+		//	Destroy (m_nameText.gameObject);
 	}
 
 
